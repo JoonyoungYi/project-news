@@ -1,0 +1,11 @@
+>> total -> 248
+>> count -> 20
+>> exact -> 8%
+
+>> total -> 248
+>> count -> 171
+>> exact -> 68%
+
+>> total -> 248
+>> count -> 143
+>> exact -> 57%
